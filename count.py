@@ -1,3 +1,3 @@
-x = input("tapez un text : ")
-y = input("recherche : ")
+x = input("enter a text : ")
+y = input("search : ")
 print(x.count(y))
